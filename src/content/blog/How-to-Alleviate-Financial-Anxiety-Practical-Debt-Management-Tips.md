@@ -12,7 +12,7 @@ tags:
   - "financial-stress"
   - "income-supplement"
 image:
-  src: "a-photo-of-a-book-titled-understanding-mortgage-pr-DBpTO_BASHm210MvuAux2g-sawSwxW9Sda9USOSkS1dWQ.png"
+  src: "A-PHOT~1.PNG"
   alt: "A book titled Understanding Mortgage"
 ---
 
@@ -21,7 +21,7 @@ image:
 Carrying high debt balances can feel like walking around with a weight on your shoulders. When stress from high-interest credit card debt and loans is taking a toll on your mental health, finding ways to relieve the pressure is key.
 
 While it's not uncommon to try to cope with financial difficulty and debt anxiety by pushing thoughts of your debt away, that only prolongs the strain you're under. You'll find more lasting relief by finding clear, specific, and sustainable ways to address your debt. Here are seven tips for dealing with debt stress.
-
+![blog image](A-PHOT~1.PNG)
 ## 1\. Face Your Debt Head-On
 
 When financial difficulty becomes a source of looming uncertainty or dread, it's not unusual to try to avoid acknowledging your debt. But while this may feel like a way to escape discomfort, it's only elongating the stress and financial burden.
