@@ -12,7 +12,7 @@ tags:
   - "financial-stress"
   - "income-supplement"
 image:
-  src: "/images/a-photo-of-a-book-titled-understanding-mortgage-pr-DBpTO_BASHm210MvuAux2g-sawSwxW9Sda9USOSkS1dWQ.png"
+  src: "a-photo-of-a-book-titled-understanding-mortgage-pr-DBpTO_BASHm210MvuAux2g-sawSwxW9Sda9USOSkS1dWQ.png"
   alt: "A book titled Understanding Mortgage"
 ---
 
