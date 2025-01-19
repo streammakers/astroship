@@ -1,15 +1,19 @@
 ---
+draft: false
 title: "How to Alleviate Financial Anxiety: Practical Debt Management Tips"
-date: "2024-11-12"
-categories: 
-  - "credit-mortgage-approval"
-tags: 
+snippet: "Learn effective strategies to manage debt and reduce financial stress."
+publishDate: "2024-11-12 00:00"
+category: "credit-mortgage-approval"
+author: "Your Name"
+tags:
   - "budgeting-tips"
   - "credit-counseling"
   - "debt-management"
   - "financial-stress"
   - "income-supplement"
-coverImage: "a-photo-of-a-book-titled-understanding-mortgage-pr-DBpTO_BASHm210MvuAux2g-sawSwxW9Sda9USOSkS1dWQ.png"
+image:
+  src: "/images/a-photo-of-a-book-titled-understanding-mortgage-pr-DBpTO_BASHm210MvuAux2g-sawSwxW9Sda9USOSkS1dWQ.png"
+  alt: "A book titled Understanding Mortgage"
 ---
 
 ## Relieve Debt Stress with These Effective Strategies
